@@ -246,7 +246,7 @@ sudo systemctl restart gunicorn
 
 # :tada: CONGRATUIOLATIONS, YOUR  SITE IS ONLINE :tada:
 
-## Let's change the Database
+## If you don't changed the Database in settings.py you can follow the steps below
 
 ### How to change your SQLite3 databse to MySQL(MariaDB)
 * First install mysql/mariadb
