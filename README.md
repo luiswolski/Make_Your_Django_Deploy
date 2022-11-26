@@ -317,3 +317,5 @@ sudo systemctl restart nginx && sudo systemctl restart gunicorn
 ```
 rm db*
 ```
+* How use Git: https://github.com/luiswolski/Using_git_on_the_server
+
